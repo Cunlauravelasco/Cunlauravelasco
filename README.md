@@ -10,7 +10,7 @@ Estudiante de Primer Semestre de Diseño Gráfico
 ## Experiencia Laboral
 
 >Concesionaria Vía 40 Express - Vía Sumapaz
-
+>Auxiliar Adminitrativo
 ## Estudios Obtenidos
 
 >·Bachiller Académico
