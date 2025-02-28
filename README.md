@@ -14,6 +14,7 @@ Estudiante de Primer Semestre de Diseño Gráfico
 ## Estudios Obtenidos
 
 >·Bachiller Académico
+
  >·Técnico en Recursos Humanos
 
 
