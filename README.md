@@ -9,12 +9,12 @@ Estudiante de Primer Semestre de Diseño Gráfico
 
 ## Experiencia Laboral
 
-· Concesionaria Vía 40 Express - Vía Sumapaz
+>Concesionaria Vía 40 Express - Vía Sumapaz
 
 ## Estudios Obtenidos
 
-· Bachiller Académico
-· Técnico en Recursos Humanos
+>·Bachiller Académico
+ >·Técnico en Recursos Humanos
 
 
 
@@ -22,6 +22,7 @@ Estudiante de Primer Semestre de Diseño Gráfico
 |----------------|-------------------------------|-----------------------------|
 |Leidy Cerquera|Cunleidy            |https://github.com/leidycerquera/CUNLEIDY           |
 |Laura Velasco          |Cunlauravelasco          |https://github.com/Cunlauravelasco            |
+
 
 
 
